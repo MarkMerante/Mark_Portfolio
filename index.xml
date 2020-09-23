@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Profile on Mark Merante</title>
+    <link>https://markmerante.github.io/Mark_Portfolio/</link>
+    <description>Recent content in Data Science Profile on Mark Merante</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Aug 2020 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://markmerante.github.io/Mark_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Customer Segmentation Analysis</title>
+      <link>https://markmerante.github.io/Mark_Portfolio/post/project-2/</link>
+      <pubDate>Wed, 05 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://markmerante.github.io/Mark_Portfolio/post/project-2/</guid>
+      <description>I have attempted to find precise segmentation of customers on a given unsupervised mall dataset with the use of K-Means clustering algorithm along with data visualization tools (using plotly python library) to assist in classifying accurate segmentation of customers.
+Link to this project</description>
+    </item>
+    
+    <item>
+      <title>Credit Risk Analysis</title>
+      <link>https://markmerante.github.io/Mark_Portfolio/post/project-1/</link>
+      <pubDate>Tue, 04 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://markmerante.github.io/Mark_Portfolio/post/project-1/</guid>
+      <description>In this analysis, I have attempted to predict whether an applicant will default on a loan. I have looked at variables such as age, personal income, years of employment, and among other variables by using exploratory analysis such as correlation and predictive models such as logistic regression and linear discriminant analysis to help aid in accurately predicting if loans will default.
+  Link to this project</description>
+    </item>
+    
+    <item>
+      <title>League of Legends (Online Gaming) Analysis</title>
+      <link>https://markmerante.github.io/Mark_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 27 Jun 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://markmerante.github.io/Mark_Portfolio/post/project-3/</guid>
+      <description>I have made an analysis involving the game &amp;lsquo;League Of Legends&amp;rsquo;. In this analysis, I have investigated whether the laning phase heavily affects the outcome of a game over objectives. I have used methods such as correlation analysis and logistic regression to help aid my analysis. I have gathered data from professional league of legends games to make this analysis possible.
+  Link to this project</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://markmerante.github.io/Mark_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://markmerante.github.io/Mark_Portfolio/contact/</guid>
+      <description>Follow me on these social media platforms
+   Platform URL     LinkedIn: https://www.linkedin.com/in/mark-samuel-merante-91854b163/   Github: https://github.com/MarkMerante    </description>
+    </item>
+    
+  </channel>
+</rss>
